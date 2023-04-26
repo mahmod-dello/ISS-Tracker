@@ -69,6 +69,10 @@ Instead of leaving your code running 24/7 on your local machine,
 you have the option to utilize [PythonAnywhere](https://www.pythonanywhere.com/) 
 and schedule a task to run every minute on their cloud servers.
 
+# APIs
+[ISS Tracker API](https://open-notify.org/)
+<br>
+[Sunrise-Sunset API](https://sunrise-sunset.org/api)
 
 # Finally
 <hr>
