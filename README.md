@@ -59,7 +59,7 @@ MyPassword="fvghtyu7i890ol"
  
 [MyOtherProject]
 # My top-secret settings for MyOtherProject
-MyAPIKey_MyOtherProject="FMu4ejyK-qQLBasTs7iHx*SFN5fF"
+MyAPIKey_MyOtherProject="FMu4ejyK-qQLBasTs7iHx*SFN5F"
 email_port=110
 DEBUG=True
 ```
