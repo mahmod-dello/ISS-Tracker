@@ -4,7 +4,7 @@ import smtplib
 from datetime import datetime
 from dotenv import load_dotenv
 
-load_dotenv("path/to/.env")
+load_dotenv("./.env")
 
 # ----------------------------- CONSTANTS -----------------------------
 MY_EMAIL = os.getenv("MY_EMAIL")
